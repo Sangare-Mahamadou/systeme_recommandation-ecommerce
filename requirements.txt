@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.3
+
+torch>=2.0
+torchvision>=0.15  # optionnel
+
+streamlit>=1.30
+plotly>=5.18
+
+matplotlib>=3.7  # optionnel
+seaborn>=0.13    # optionnel
